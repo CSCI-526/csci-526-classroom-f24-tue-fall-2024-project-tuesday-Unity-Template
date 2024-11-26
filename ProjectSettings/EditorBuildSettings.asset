@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_Game.unity
+    guid: 45593879c69efe442a227ae16ee4104b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f063ee4181ff399439f7410ec8db3d5f
+  - enabled: 1
+    path: Assets/Scenes/safehouse.unity
+    guid: 75e4b286fdeecda41a7de6807f7f2977
+  - enabled: 1
+    path: Assets/Scenes/CountrySide.unity
+    guid: d04c44929c1757941a147b73f5210aca
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 6890c275375d0df48b4ae32790f0c348
+  - enabled: 1
+    path: Assets/Scenes/Company.unity
+    guid: 9d2199f5bbccac646ac209596cd79371
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: aa15da142cb105a4db0399cb39a90379
+  m_configObjects: {}
